@@ -10,7 +10,7 @@ I want to be a ***great***, very ***good*** and very ***proficient*** Fullstack 
 
 At the moment I am developing skills **Front-End Development**.
 
-## Skils
+## Skills
 - ◾◾◾◽◽ C/C++
 - ◾◽◽◽◽ Java
 - ◾◽◽◽◽ Assembly
