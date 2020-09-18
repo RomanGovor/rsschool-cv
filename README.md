@@ -1,2 +1,2 @@
 # rsschool-cv
-[https://RomanGovor.github.io/rsschool-cv/cv](CV)
+[CV](https://RomanGovor.github.io/rsschool-cv/cv)
